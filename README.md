@@ -1,7 +1,7 @@
 
 # Duque, Chen, Hsu et al. Neuron 2024
 
-This repository provides Prism files and jupyter notebooks for all the Figures in the paper.
+This repository provides Prism files used to produce plots in the main Figures and Jupyter Notebooks for analysis.
 
 If you have any additional questions please contact mduqueramirez@g.harvard.edu
 
