@@ -3,7 +3,7 @@
 
 This repository provides Prism files used to produce plots in the main Figures and Jupyter Notebooks for analysis.
 
-If you have any additional questions or data request please contact mduqueramirez@g.harvard.edu or ahrensm@janelia.hhmi.org
+If you have any additional questions or data requests please contact mduqueramirez@g.harvard.edu or ahrensm@janelia.hhmi.org
 
 
 ## Additional repositories used 
